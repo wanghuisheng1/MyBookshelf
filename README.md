@@ -2,17 +2,13 @@
 # 关注公众号请搜索:开源阅读软件,有福利噢
 # blog http://www.hostfans.cn
 # 开发
-- 本项目Fork于 https://github.com/ZhangQinhao/MONKOVEL
-- fork 之后主要开发人员 kunfei https://github.com/gedoor
+- 本项目Fork于 https://github.com/gedoor/MyBookshelf
+- fork 之后主要开发人员 wanghuisheng1 https://github.com/wanghuisheng1
 
 **代码贡献人员**
-- 大古队员 https://github.com/DaguDuiyuan
-- atbest https://github.com/atbest
-- Antecer https://github.com/Antecer
-- mabDc https://github.com/mabDc
-
+- 
 **其它贡献人员**
-- 图标绘制 群管理员-新奥尔良烤鲟魚堡
+- 图标绘制 
 
 # 软件截图
 ![image](https://github.com/gedoor/gedoor.github.io/blob/master/MyBookshelf/image/mybook1.jpg)
